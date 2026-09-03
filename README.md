@@ -1,5 +1,5 @@
 
-![Antique compass rose set over an old world map](https://raw.githubusercontent.com/Alchemical-Artisans/Alchemical-Artisans.github.io/main/darkmoon_art-compass-3408928.jpg)
+![Antique compass rose set over an old world map](https://github.com/Alchemical-Artisans/.github/blob/main/darkmoon_art-compass-3408928.jpg)
 
 # Alchemical Artisans
 
